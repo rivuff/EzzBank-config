@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Ezzbank related account QA API"
+  contactDetails:
+    name: "Rohan Das - Developer"
+    email: "rohandas@gmail.com"
+  onCallSupport:
+    - (555)555-1214
+    - (555)555-1215

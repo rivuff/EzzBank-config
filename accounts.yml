@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Ezzbank related account API"
+  contactDetails:
+    name: "Rivu Naskar - Developer"
+    email: "rivunaskar0@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)555-1235
