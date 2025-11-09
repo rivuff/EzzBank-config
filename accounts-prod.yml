@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Ezzbank related account proddd API"
+  message: "Welcome to Ezzbank related account proddduction API"
   contactDetails:
     name: "Rivu Naskar - Developer"
     email: "rivunaskar0@gmail.com"
