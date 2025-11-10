@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Ezzbank related account webhook API"
+  message: "Welcome to Ezzbank related account Hoook API"
   contactDetails:
     name: "Rivu Naskar - Developer"
     email: "rivunaskar0@gmail.com"
